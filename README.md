@@ -24,7 +24,7 @@ package main
 import (
   "fmt"
   "net/http"
-  "github.com/jinzhu/gorm"
+  "github.com/Upstarts/gorm"
   _ "github.com/mattn/go-sqlite3"
   "github.com/qor/admin"
 )

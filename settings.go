@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/jinzhu/gorm"
+	"github.com/Upstarts/gorm"
 	"github.com/qor/qor"
 )
 

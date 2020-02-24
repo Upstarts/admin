@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/jinzhu/gorm"
+	"github.com/Upstarts/gorm"
 	"github.com/qor/admin"
 	. "github.com/qor/admin/tests/dummy"
 )
