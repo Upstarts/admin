@@ -17,7 +17,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/jinzhu/gorm"
+	"github.com/Upstarts/gorm"
 	"github.com/jinzhu/inflection"
 	"github.com/qor/qor"
 	"github.com/qor/qor/utils"
